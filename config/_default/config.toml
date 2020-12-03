@@ -1,0 +1,34 @@
+baseURL = "/"
+title = "Michelle Ponti Blog"
+
+theme = "eureka"
+
+paginate = 3
+copyright = "&copy; Michelle Ponti 2020</a>"
+enableEmoji = true
+enableGitInfo = false
+summaryLength = 0
+
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguageInSubdir = false
+
+
+[markup]
+  # Do not modify markup.highlight
+  [markup.highlight]
+    codeFences = false
+    noClasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
+
+[build]
+  useResourceCacheWhen = "always"

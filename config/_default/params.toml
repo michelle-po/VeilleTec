@@ -1,0 +1,32 @@
+mainSections = [""]
+description = "LabVeilTec Blog Michelle Ponti"
+
+repoURL = ""
+# If it is a Github repo, leave blank
+repoEditURL = ""
+
+dateFormat = ""
+
+# E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+siteType = "Blog"
+icon = "images/icon.png"
+publisherName = "Michelle Ponti"
+publisherLogo = ""
+
+[hero]
+  slogan = "Bienvenue dans mon blog pour le cours de LabVeilTec"
+
+  # Specify the image name in `assets/images/` folder.
+  imgLeft = "images/left.jpg"
+  imgRight = "images/right.jpg"
+
+[comment]
+  # Options: disqus and commento.
+  platform = ""
+
+  [comment.disqus]
+    shortname = ""
+
+  [comment.commento]
+    # If self-hosting, please enter the url (e.g. https://commento.example.com) here. Otherwise leave empty. 
+    url = ""
