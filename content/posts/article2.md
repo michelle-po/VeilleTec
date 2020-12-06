@@ -8,7 +8,7 @@ categories: [Recherche, Utilisateurs]
 featuredImage : "images/enfants.jpg"
 toc: true
 ReadingTime: true
-draft : false
+draft : true
 ---
 
 ## La technologie dans les écoles 

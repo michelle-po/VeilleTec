@@ -31,14 +31,14 @@ Dans le travail de mes rêves, dans l'ikigai, j'aimerait trouver un moyen pour m
 
 **Dans ce site, crées dans le cadre du cours de LabVeilTec, j'aiemrait ecrire des articles itneressant sur l'évolutions du domaine du UX/UI.**
 
-**Le contenu sera reparties en categories:**
+## **Categories des contenus:**
 - Recherche
 - Technologie
 - Graphique
 - Marketing
 - Utilisateurs
 
-**Les tags seront les suivantes:**
+## **Tags des articles:**
 
 wireframes, typographie, usabilité, couleurs, design, ergonomie, tests, persona, userjourney, sitemap, utility, disabilities, alignements,
 

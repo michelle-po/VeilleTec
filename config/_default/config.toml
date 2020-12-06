@@ -3,7 +3,7 @@ title = "Michelle Ponti Blog"
 
 theme = "eureka"
 
-paginate = 3
+paginate = 5
 copyright = "&copy; Michelle Ponti 2020</a>"
 enableEmoji = true
 enableGitInfo = false
