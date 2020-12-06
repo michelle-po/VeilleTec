@@ -1,19 +1,12 @@
 +++
 # Michelle Ponti
-title = "Michelle Ponti"
+title = "Michelle Ponti ✨"
 role = "Étudiante en Ingenierie dés médias,"
-bio = "J'habite en Suisse et cela est mon prémière site web crée avec Hugo. J'espère que ca vous plaît!"
+bio = "J'habite en 🇨🇭 et cela est mon prémière site web crée avec Hugo. J'espère que ca vous plaît!"
 avatar = "/images/Michelle.jpeg"
 
 [organization]
   name = "Heig-vd (CH)"
-
-# Check the available icons on https://fontawesome.com/.
-# You can get similar results like this <i class="fab fa-github"></i> after searching.
-# Then icon is github and icon_pack is fab for this case.
-
-# [[social]] icon = "github" icon_pack = "fab" url = "https://example.com/"
-
 
 +++
 

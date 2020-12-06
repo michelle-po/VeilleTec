@@ -1,29 +1,29 @@
 [readMore]
-other = "Read More"
+other = "Lire autre"
 
 [readingTime]
-other = "{{ .ReadingTime }} min read"
+other = "{{ .ReadingTime }} min"
 
 [toc]
-other = "Table of Contents"
+other = "Table des matières"
 
 [seriesOfPosts]
 other = "Series of Posts"
 
 [previous]
-other = "Previous"
+other = "Précedent"
 
 [next]
-other = "Next"
+other = "Prochain"
 
 [seeAlso]
-other = "See Also"
+other = "Voir aussi"
 
 [recent]
-other = "Recent"
+other = "Récents"
 
 [onThisPage]
-other = "On This Page"
+other = "Dans cette page"
 
 [editThisPage]
-other = "Edit this page"
+other = "Editer cette page"
