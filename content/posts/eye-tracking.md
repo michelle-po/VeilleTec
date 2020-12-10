@@ -39,8 +39,8 @@ Nous avons créé un protocole d'analyse sur le site [Aldi Suisse](https://www.a
 Dans ce cas, les mêmes conclusions auraient été tirées d'une simple analyse de [Google Analytics](https://analytics.google.com/analytics/web/)
 
 ## Pour la Michelle du future ⚠️
-Le suivi oculaire peut être considéré comme un outil amusant à essayer et à utiliser, mais avant de le choisir, vous devez vous assurer qu'il n'y a pas d'outils plus simples et plus rapides.
-
+Le suivi oculaire peut être considéré comme un outil amusant à essayer et à utiliser, mais avant de le choisir, vous devez vous assurer qu'il n'y a pas d'outils plus simples et plus rapides... 😅
+ 
 ## Sources 📚
 - https://xd.adobe.com/ideas/process/user-research/eye-tracking-and-usability/
 
