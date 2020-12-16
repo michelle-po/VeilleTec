@@ -3,7 +3,7 @@ title: "Après le flat de design, le Neumorphisme"
 date: 2020-11-12T12:53:01+01:00
 description: "Article sur le neumorphisme, la nouvelle tendance pour l'UI"
 authors : [MichellePonti]
-tags : [tendances, wireframes, interfaces, couleurs, typographie, contrast]
+tags : [Tendances, Wireframes, Interfaces, Ergonomie, Couleurs, Contrast, Typographie, Interfaces, Invalidité, Accessibilité]
 categories: [Design]
 featuredImage : "images/neumorphism.png"
 toc: false
@@ -12,7 +12,7 @@ draft : false
 ---
 
 ## L'article 📄
-L'article de Justmind de avril 2020, comme beaucoup d'autres (voir sources), révèle une nouvelle tendance dans la conception d'interface utilisateur: **le neumorphisme**. 
+L'article de Justmind d'avril 2020, comme beaucoup d'autres (voir sources), révèle une nouvelle tendance dans la conception d'interface utilisateur: **le neumorphisme**. 
 
 Mais qu'est-ce que ce serait?
 Le neumorphisme est une nouvelle façon de concevoir le design des écrans. Tous les composants visibles, grâce à l'ajout d'ombres très réalistes, sembleront sortir de l'écran et être quelque chose de physique. Comme dans l'image de couverture, il est possible de voir que les touches semblent réelles et, à partir de l'ombre du bouton, il est possible de comprendre si elle est enfoncée ou non.
@@ -31,10 +31,10 @@ Michal Malewicz, co-créateur du neumorphisme, a immédiatement remarqué le pro
 
 Certains tests UX ont révélé que les utilisateurs réagissent positivement au neumorphisme, mais il est tout à fait possible qu'ils trouvent irritant d'y faire face après un certain temps, surtout si le neumorphisme devait devenir omniprésent dans le monde numérique.
 
-## Pour la Michelle du future ⚠️
+## Pour la Michelle du futur ⚠️
 Étant une nouvelle tendance, cela ne signifie pas qu'elle ne peut pas devenir très importante pour toute l'interface utilisateur des nouvelles générations. Il faudra voir si les Big de la technologie, comme Apple et Google, commenceront à orienter leurs interfaces en suivant ce style ou non.
 
-Pour l'instant, je pense que je vais commencer à tester le neumorphisme dans mes projets personnels. Pour commencer, je vais m'appuyer sur des bases figma et des exemples en ligne.
+Pour l'instant, je pense que je vais commencer à tester le neumorphisme dans mes projets personnels. Pour commencer, je vais m'appuyer sur des bases Figma et des exemples en ligne.
 
 Par exemple, le lien suivant vous permet de comprendre la différence des ombres pour les différents états des boutons:
 https://neumorphism.io/#ffffff

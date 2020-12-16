@@ -1,9 +1,9 @@
 ---
 title: "Que la force obscure soit avec toi!"
 date: 2020-11-12T12:53:01+01:00
-description: "Article sur la tendance de ajouter des stories dans les applications"
+description: "Article sur la tendance d'ajouter des stories dans les applications"
 authors : [MichellePonti]
-tags : [Tendances, Wireframes, Ergonomie, Utilisateurs, Couleurs, Accessibilité, Typographie, Utilisabilité]
+tags : [Tendances, Wireframes, Ergonomie, Utilisateurs, Couleurs, Accessibilité, Typographie, Utilisabilité, Invalidité, Contrast, Best-Practices]
 categories: [Design]
 featuredImage : "images/dark-light.png"
 toc: false
@@ -30,15 +30,15 @@ Cet article propose un tutoriel étape par étape pour créer votre propre dark 
 ## Analyse du sujet 🔎
 Pour la création d'un dark mode, **les couleurs** à utiliser sont le point clé. Créer des ombres et des contrastes est beaucoup plus difficile si vous ne partez pas d'un fond blanc ou quand même clair. Il est donc nécessaire d'analyser chaque facteur et probablement aussi d'adapter la version claire actuelle de l'application. 
 
-D'autres articles ont souligné la difficulté de pointer des informations sur des écrans noirs. La hiérarchie chromatique n'est plus la même et les personnes ont plus la peiene a trouver les mêmes éléments sur la même page en dark mode.
+D'autres articles ont souligné la difficulté de pointer des informations sur des écrans noirs. La hiérarchie chromatique n'est plus la même et les personnes ont plus la peine a trouver les mêmes éléments sur la même page en dark mode.
 L'accessibilité de l'application pourrait donc être affectée. Les utilisateurs handicapés ou ayant des problèmes de vision peuvent être touchés et ne pas être totalement d'accord avec le changement total des applications avec l'arrivée du soir (là où les yeux sont également plus fatigués).
 
 Le dark mode a été créé pour améliorer l'expérience utilisateur, mais que se passe-t-il s'il se révèle être le contraire ? 🤔
 
 Il faut aussi faire attention aux différences entre les systèmes d'exploitation, aux règles requises par chaque système afin de publier l'application sur les stores officiels.
 
-## Pour la Michelle du future ⚠️
-Sûrement la modalité nuit sera de plus en plus présent dans notre vie numérique. Il est un sujet à suivre et à tenir à jour. Avec le temps, on découvrira probablement de meilleures techniques qui permettront aux personnes malvoyantes de ne pas être pénalisées dans l'utilisation de ce mode qui devrait, au contraire, augmenter le plaisir d'utiliser une application et donc le temps depensé sur elle.
+## Pour la Michelle du futur ⚠️
+Sûrement la modalité nuit sera de plus en plus présent dans notre vie numérique. Il est un sujet à suivre et à tenir à jour. Avec le temps, on découvrira probablement de meilleures techniques qui permettront aux personnes malvoyantes de ne pas être pénalisées dans l'utilisation de ce mode qui devrait, au contraire, augmenter le plaisir d'utiliser une application et donc le temps dépensé sur elle.
 
 ## Sources 📚
 - https://uxdesign.cc/what-is-wrong-with-the-dark-mode-d51833e01926
