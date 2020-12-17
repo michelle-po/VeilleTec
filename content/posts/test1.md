@@ -11,6 +11,8 @@ ReadingTime: true
 draft : true
 ---
 
+
+# CE LA N'EST PAS UN ARTICLE A CORRRIGER!!! ⚠️ ⚠️
 ## L'Internet of body (IOB)
 
 Après l'internet of things (les objects connectés), la prochaine étape de la technologie est l'internet of body : **notre corpe connecté a un réseau mondiale.**

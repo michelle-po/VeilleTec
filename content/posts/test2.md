@@ -11,6 +11,8 @@ ReadingTime: true
 draft : true
 ---
 
+
+# CE LA N'EST PAS UN ARTICLE A CORRRIGER!!! ⚠️ ⚠️
 ## La technologie dans les écoles 
 De plus en plus, la technologie est en train de entréer dans nos écoles, deja a partire des écoles primaires. 
 Dans l'avenir, probablement, avoir des tablettes au lieu que des livres sera la normalité. Dessiner, faire les dévoirs, apprendre les maths... Dans toutes cettes fonctinnalités le rôle principale sera joué par la tablette. Il faudra donc que ces plateformes seront pensée pour aider au maximum les enfants et dévenir un outil performant. Ca sera donc três important étudier des experiences utilisateur parfatites. 
